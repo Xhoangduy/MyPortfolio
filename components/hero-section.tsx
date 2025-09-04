@@ -41,7 +41,7 @@ export default function HeroSection() {
           </motion.div>
 
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            Hi, I'm {heroInfo.name}
+            Hi, I&apos;m {heroInfo.name}
           </h1>
 
           <TypeAnimation

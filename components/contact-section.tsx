@@ -39,7 +39,7 @@ export default function ContactSection() {
           <div>
             <h3 className="text-2xl font-semibold mb-4">Contact Me</h3>
             <p className="text-muted-foreground mb-8">
-              I'm currently open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on social media. Let's build something amazing together!
+              I&apos;m currently open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on social media. Let&apos;s build something amazing together!
             </p>
             <div className="flex items-center gap-4 mb-8">
               <Link href={socialLinks.github} target="_blank" rel="noopener noreferrer">
