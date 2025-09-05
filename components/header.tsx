@@ -60,7 +60,7 @@ export default function Header() {
         <div className="hidden md:flex items-center gap-2">
           <ThemeToggle />
           <Button asChild>
-            <a href="/CV_Nguyen_Hoang_Duy_IT_Intern.pdf" download>My CV</a>
+            <a href="/CV_NguyenHoangDuy_SoftWare_Developer_Intern.pdf" download>My CV</a>
           </Button>
         </div>
 
@@ -88,7 +88,7 @@ export default function Header() {
             ))}
             <ThemeToggle />
             <Button asChild className="w-full mt-2">
-              <a href="/CV_Nguyen_Hoang_Duy_IT_Intern.pdf" download>My CV</a>
+              <a href="/CV_NguyenHoangDuy_SoftWare_Developer_Intern.pdf" download>My CV</a>
             </Button>
           </nav>
         </div>
